@@ -8,7 +8,7 @@ export const fetchArticles = async (query, page) => {
       per_page: 12,
     },
     headers: {
-      Authorization: `Client-ID SL76qFrJljjmTwgE_HFP7v5ZWwc6YLum-SAkymRi4_w`,
+      Authorization: `Client-ID DI2RCzcI3Kemtgeww-d0e7b4gd8eBDpOM_iUREexAOM`,
     },
   });
 
